@@ -3,3 +3,4 @@
 
 TECH INFORMATION
 - JDK version 17
+- use master branch
